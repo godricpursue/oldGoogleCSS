@@ -1,0 +1,71 @@
+#logo {
+    text-align: center;
+}
+.top-row > button {
+    font-size: 9px;
+}
+footer {
+    margin-top: 5px;
+    text-align: center;
+    font-size: 10px;
+}
+.top-row {
+    margin: auto;
+    margin-bottom: 2px;
+    height: 60px;
+    width: 90%;
+    background-color:#eeeeee;
+    text-align: center;
+    font-size: 11px;
+}
+.top-row > p {
+    margin-bottom: 0px;
+}
+
+  .bottom-row {
+    margin: auto;
+    height: 55px;
+    width: 90%;
+    text-align: center;
+  }
+  .one {
+    float:left;
+    background:#7ee5da;
+    width:36.5%;
+    height: 55px;
+  }
+  .two {
+    float:left;
+    background:#70ccc2;
+    width:22.4%;
+    height: 55px;
+    margin-left: 2px;
+    margin-right: 2px;
+  }
+  .three {
+    float:right;
+    background:#62b3aa;
+    width:40.85%;
+    height: 55px;
+    font-size: 9px;
+  }
+
+.one > p {
+    font-size: 12px;
+    margin:0.5%;
+}
+.two > p {
+    font-size: 10px;
+    margin:1%;
+}
+.three > p {
+    font-size: 10px;
+    margin: 0;
+}
+
+#subs {
+    font-size: 9px;
+}
+#mail {
+    font-size: 8px;
+}
